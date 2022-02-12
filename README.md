@@ -28,7 +28,7 @@ Installations have been written for:
 * [Ubuntu](http://nntin.github.io/discord-twitter-bot/docs/inst-ubuntu/)
 * [Windows](http://nntin.github.io/discord-twitter-bot/docs/inst-windows/)
 * [Mac OS](http://nntin.github.io/discord-twitter-bot/docs/inst-macos/)
-* [Heroku](http://nntin.github.io/discord-twitter-bot/docs/inst-heroku/)
+* [Heroku](https://github.com/WilsonOMG/discord-twitter-bot)
 * [Docker](http://nntin.github.io/discord-twitter-bot/docs/inst-docker/)
 * [Raspbian](http://nntin.github.io/discord-twitter-bot/docs/inst-raspbian/)
 
