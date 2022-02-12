@@ -7,7 +7,7 @@
     "twitter",
     "tweets"
   ],
-  "website": "https://nntin.xyz/",
+  "website": "https://github.com/WilsonOMG/discord-twitter-bot",
   "logo": "https://i.imgur.com/11zvdoc.png",
   "env": {
     "ACCESS_TOKEN": {
